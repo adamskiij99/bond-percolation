@@ -1,6 +1,8 @@
 # Bond Percolation
 Stylised and interactive bond percolation. Moving the mouse left or right will vary percolation parameter, and a new instance is generated on mouse press. The percolation parameter has a nice continuity property: each edge is given some uniformly random number between 0 and 1, which if under the threshold determined by mouse position, will display.
 
+[View in browser.](https://openprocessing.org/sketch/1736335)
+
 Example at 10% threshold:
 
 ![bond 10](https://user-images.githubusercontent.com/62266775/180670203-cb8a41d0-ca6f-45ee-8613-f1e73fa8f217.png)
